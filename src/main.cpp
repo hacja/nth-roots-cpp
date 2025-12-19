@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(int argc,char** argv) {
-    double aim_v, n, spec_v, x0;
+    double n, spec_v, x0;
     double pi = M_PI;
     cout << "please input your equation's pow number : " << endl;
     cin >> n;
